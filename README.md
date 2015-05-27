@@ -1,1 +1,1 @@
-# shailendragurjar.github.io
+[shailendra's git pages](http://shailendragurjar.github.io "blog")
